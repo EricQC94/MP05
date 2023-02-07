@@ -24,7 +24,7 @@
 - [Proves de caixa negra](UF2teoria3.md)
 - [Depurador](debug.md)
 - [Proves unitàries de caixa negra](junit.md)
-
+- [Integració de Git a IntelliJ](vcs.md)
 
 ### Activitats:
 
