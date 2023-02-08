@@ -46,6 +46,9 @@ Per aquest motiu simulareu un grup de treball tipus Scrum on l'Scrum Master us i
 
 ## Enunciat del programa:
 
+Valor dels punts (1 a 8): 1,25 punts cada apartat.
+Valor dels punts (9 i 10): 1 punt cada apartat.
+
 Una ONG que s'encarrega de gestionar un banc d'aliments ens ha contactat per fer un programa que automatitzi algunes de les tasques del mateix.
 
 El banc d'aliments funciona com un magatzem que rep donacions i després reparteix els mateixos a les associacions que realitzaran l'entrega final a la gent que ho necessiti.
