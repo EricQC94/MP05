@@ -32,7 +32,7 @@ Per aquest motiu simulareu un grup de treball tipus Scrum on l'Scrum Master us i
 
 7. Creareu les proves amb el software JUnit i comprovareu que donen el resultat esperat.
 
-8. Investigareu software diferent a JUnit per testejar software i provareu de fer les proves amb aquest software.  A la web d'IntelliJ [podeu trobar opcions](https://www.jetbrains.com/help/idea/tests-in-ide.html).
+8. Investigareu software diferent a JUnit per testejar software.  A la web d'IntelliJ [podeu trobar opcions](https://www.jetbrains.com/help/idea/tests-in-ide.html).
 
 ### Proves de caixa negra:
 
