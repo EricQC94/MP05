@@ -33,6 +33,7 @@
 - [Activitats depurador](UF2ActivitatsDebug.md)
 - [Proves unitàries de caixa negra](junit.md)
 - [Activitat Grups](UF2ActivitatGrup.md)
+  - [Exemple codi banc aliments](exempleCodiBancAliments.md)
 
 ### Activitats resoltes:
 
