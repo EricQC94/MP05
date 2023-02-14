@@ -27,5 +27,29 @@ Javadocs és una eina que ens permet generar documentació per al nostre codi en
 
 [Link a documentació sobre Javadocs a la web d'IntelliJ](https://www.jetbrains.com/help/idea/working-with-code-documentation.html)
 
+Per afegir comentaris a una funció:
 
+![image](https://user-images.githubusercontent.com/110727546/218870592-cdf3683e-4ed3-41e9-af64-c032899c31a3.png)
+
+Resultat:
+
+![image](https://user-images.githubusercontent.com/110727546/218870647-4f90f1f3-55bb-48ac-813f-6bd10ad37149.png)
+
+Podem fer-ho més agradable a la vista:
+
+![image](https://user-images.githubusercontent.com/110727546/218870726-5c7487c2-9276-4625-b429-78588cbb506d.png)
+
+![image](https://user-images.githubusercontent.com/110727546/218870760-01d34e8a-5897-45e0-9946-897e26f8393b.png)
+
+Per crear documentació d'una classe o un projecte de manera fàcil anem a Tools-> Generate Javadoc:
+
+![image](https://user-images.githubusercontent.com/110727546/218870902-148436e5-f248-47aa-beb8-3aabc41598af.png)
+
+![image](https://user-images.githubusercontent.com/110727546/218870952-2d81a9c2-46e8-45b2-abf8-e51c4b5ed2a9.png)
+
+Resultat:
+
+![image](https://user-images.githubusercontent.com/110727546/218871031-89d07c18-06ca-4a7a-bf30-be8250a3ef93.png)
+
+![image](https://user-images.githubusercontent.com/110727546/218871086-0d89d1d9-ba1d-4395-b097-c46e89527fe5.png)
 
