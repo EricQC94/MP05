@@ -104,10 +104,35 @@ Resultat:
 
 ### Extreure una interfície:
 
-Una interfície 
+Una interfície es una estructura de Java sense implementar el seu codi, només especificant els seus atributs i mètodes. 
 
+Exemple:
 
+![image](https://user-images.githubusercontent.com/110727546/218864720-efb93c8c-f55e-4c0d-a46a-055fbb12805c.png)
 
+![image](https://user-images.githubusercontent.com/110727546/218864791-6ae77708-bdd7-4272-956a-dda8b1936244.png)
 
+![image](https://user-images.githubusercontent.com/110727546/218864876-eede8367-2009-42c1-a604-944e374bb11a.png)
 
+Resultat:
+
+![image](https://user-images.githubusercontent.com/110727546/218864939-cc176388-0576-460e-a6e9-3531a9032389.png)
+
+![image](https://user-images.githubusercontent.com/110727546/218864970-7c571793-4264-4049-a84e-c6d94b3ae7cb.png)
+
+### Extreure un mètode:
+
+Quan utilitzem un bloc de codi més d'una vegada és millor passar-ho a una funció.
+
+Exemple:
+
+![image](https://user-images.githubusercontent.com/110727546/218866683-e2a0fd65-8bc0-43d9-beeb-fb1c576d0819.png)
+
+![image](https://user-images.githubusercontent.com/110727546/218866780-85e1d1b5-d84d-4542-866a-184d0b139e8f.png)
+
+Resultat:
+
+![image](https://user-images.githubusercontent.com/110727546/218866905-2e5e975f-3bb7-4c0a-8f1f-c84fd1a5db51.png)
+
+![image](https://user-images.githubusercontent.com/110727546/218867049-faf38688-1b8a-4542-a50f-33db455ce9ec.png)
 
