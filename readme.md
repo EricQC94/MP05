@@ -24,6 +24,9 @@
 - [Proves de caixa negra](UF2teoria3.md)
 - [Depurador](debug.md)
 - [Proves unitàries de caixa negra](junit.md)
+- [Comentaris i documentació de codi](comentaris.md)
+- [Refacció de codi](refaccio1.md)
+  - [Exemple de codi per refactoritzar](refaccio.md)
 - [Integració de Git a IntelliJ](vcs.md)
 
 ### Activitats:
