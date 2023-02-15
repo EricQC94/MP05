@@ -37,6 +37,7 @@
 - [Proves unitàries de caixa negra](junit.md)
 - [Activitat Grups](UF2ActivitatGrup.md)
   - [Exemple codi banc aliments](exempleCodiBancAliments.md)
+- [Activitat generar documentació i Git](activitatDocumentacio.md)
 
 ### Activitats resoltes:
 
