@@ -44,3 +44,8 @@
 - [Solució proves de caixa blanca](solucioCaixaBlanca.md)
 - [Solució proves de caixa negra](https://github.com/XaSaFa/MP05/blob/main/Solucio%20Activitats%20proves%20de%20caixa%20negra.pdf)
 
+## UF3 - introducció al disseny orientat a objectes.
+
+### Presentació:
+
+- [Presentació i qualificació](introUF3.md)
