@@ -30,7 +30,7 @@ Ofereixen una visió estructural del model del sistema a desenvolupar.
 - **Diagrama d’estructures compostes**, que descriu casos en què, o bé les instàncies d’un classificador tenen com a parts instàncies d’altres, o bé en el comportament executant d’un classificador participen instàncies d’altres.
 - **Diagrama de components**, que és un diagrama de classes i alhora d’estructures compostes simplificat i més adient per a determinades tecnologies de programació.
 - **Diagrama de desplegament**, que descriu la configuració en temps d’execució d’un programari especificat, normalment, per un diagrama de components.
--** Diagrama de perfil**, permet adaptar o personalitzar el model amb construccions que són específiques d’un domini en particular, d’una determinada plataforma, o d’un mètode de desenvolupament de programari…
+- **Diagrama de perfil**, permet adaptar o personalitzar el model amb construccions que són específiques d’un domini en particular, d’una determinada plataforma, o d’un mètode de desenvolupament de programari…
 
 D'aquests diagrames aprofundirem en el **diagrama de classes**.
 
