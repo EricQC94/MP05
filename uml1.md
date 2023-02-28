@@ -46,5 +46,5 @@ Ofereixen una visió del comportament dinàmic del sistema, és a dir, què ha d
 - **Diagrama d’interacció**, que descriu comportaments emergents i té les variants següents:
   - **Diagrama de seqüències**, que fa èmfasi en la seqüència temporal de les participacions de les diferents instàncies.
   - **Diagrama de comunicacions**, que es basa directament en una estructura composta.
-  -** Diagrama de visió general de la interacció**, que dóna una visió resumida del comportament emergent.
+  - **Diagrama de visió general de la interacció**, que dóna una visió resumida del comportament emergent.
   - **Diagrama temporal**, que es basa en un diagrama d’estats previ o més d’un i alhora posa èmfasi en els canvis d’estat al llarg del temps.
