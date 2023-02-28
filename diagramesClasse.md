@@ -68,6 +68,21 @@ La classe quedarà així:
 
 ![image](https://user-images.githubusercontent.com/110727546/221849946-c16e0ebb-2a58-4791-9c7c-c91a0a1d9524.png)
 
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+
+# Activitat
+
+Utilitzarem [Lucid](https://lucid.app/) per crear els següents objectes:
+
+1. persona.
+2. llibre.
+3. vehicle.
+4. ordinador.
+
+Penseu els seus atributs i operacions així com la visibilitat dels mateixos.
+
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
+
 ### Objectes
 
 Els objectes són personalitzacions concretes d'una classe, instàncies, espais de memòria amb valors.
@@ -90,9 +105,22 @@ Les tortugues hivernen i les ovelles s'han d'esquilar, així que aprofitem que t
 
 ![image](https://user-images.githubusercontent.com/110727546/221852144-cdc717ea-8680-4cd0-b811-a473aa5c7df3.png)
 
-A l'exemple animal és una **superclasse**, mentre que tortuga i ovella són **subclasses**.
+A l'exemple animal és una **superclasse**, mentre que tortuga i ovella són **subclasses**, la superclasse és una generalització mentre que la subclasse és una especialització.
 
 L'herència es representa amb una fletxa que surt de la subclasse i va a la superclasse.
+
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+# Activitat
+
+Utilitzarem [Lucid](https://lucid.app/) per crear 5 generalitzacións de classes (subclasse i superclasse):
+
+1.
+2.
+3.
+4.
+5.
+
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
 ## Relació
 
@@ -114,6 +142,8 @@ Per a representar la cardinalitat de les associacions fiquem dos números, un a 
 
 ![image](https://user-images.githubusercontent.com/110727546/221987681-41e5a952-edcc-48ab-8d17-ed2f43fac446.png)
 
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+
 # Activitat
 
 Escrivim quines associacions poden tenir les següents classes, nom d'associació i cardinalitat:
@@ -126,6 +156,8 @@ Escrivim quines associacions poden tenir les següents classes, nom d'associaci�
 6. persona, cotxe.
 7. persona, adreça.
 8. taxi, client.
+
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
 ## Agregació
 
@@ -145,6 +177,8 @@ Les agregacions es representen amb una línia contínua amb un romb buit a l'ext
 
 En aquest exemple si desapareix la fruiteria, les fruites seguiran existint.
 
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+
 # Activitat
 
 Utilitzarem [Lucid](https://lucid.app/) per crear una agregació entre:
@@ -155,6 +189,33 @@ Utilitzarem [Lucid](https://lucid.app/) per crear una agregació entre:
 4. biblioteca, llibres.
 5. atletes, equip.
 
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
+
+## Composició
+
+És molt similar a la relació d'agregació, en aquest cas hi ha un objecte base que necessita dels objectes inclosos per a existir, però si desapareix l'objecte base també desapareixen els objectes inclosos.
+
+Un objecte base "es composa" dels objectes inclosos.
+
+La relació d’associació de composició es representa mitjançant una línia contínua finalitzada en un dels extrems per un rombe pintat, omplert. El rombe pintat s’ubicarà a la part de l’objecte base.
+
+Exemple:
+
+![image](https://user-images.githubusercontent.com/110727546/221994886-56d968aa-4b5b-4788-afeb-734d974831f9.png)
+
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+
+# Activitat
+
+Utilitzarem [Lucid](https://lucid.app/) per crear 5 relacions de composició:
+
+1.
+2.
+3.
+4.
+5.
+
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
 
 
