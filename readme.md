@@ -49,3 +49,8 @@
 ### Presentació:
 
 - [Presentació i qualificació](introUF3.md)
+
+### Teoria:
+
+- [UML](uml1.md)
+- [Diagrames de classe](diagramesClasse.md)
