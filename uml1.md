@@ -54,9 +54,40 @@ Ofereixen una visió del comportament dinàmic del sistema, és a dir, què ha d
 Cerca per Internet i respon a aquestes preguntes.
 
 1. Buscar quines són les principals versions de UML publicades fins la més actual i de quin any són.
+
+- versió 1.0 - 1997
+- versió 1.1 - 1997
+- versió 1.2 - 1999
+- versió 2.0 - 2005
+- versió 2.2 - 2009
+- versió 2.5.1 - 2017
+
 2. Qui va crear UML?
+
+- Grady Booch 
+- Ivar Jacobson
+- Jim Rumbaugh
+
+![image](https://user-images.githubusercontent.com/110727546/222076170-4c1c8ea5-ef6d-47a0-aa05-a078eb82995b.png)
+
+
 3. Què és Rational Rose?
+
+Una eina de disseny orientada a objectes que dona suport de modelatge visual. Permet representar un sistema gràficament.
+Funcionava sobre frameworks de desenvolupament com MVS.
+
 4. Què té que veure Rational Rose amb UML?
+
+Rational Rose utilitza UML per a modelar software.
+
 5. Quan va ser publicada UML per la International Organization for Standardization (ISO)?
+
+La versió 1.4.2 va ser publicada per la ISO l'any 2005.
+
 6. Què vol dir OMG?
+
+Object Management Group - estandaritzar el Object Modelling en totes les seves formes.
+
 7. Què té que veure OMG amb UML?
+
+OMG és responsable de mantindre UML des de que es va convertir en un estàndar.
