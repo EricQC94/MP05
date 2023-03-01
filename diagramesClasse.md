@@ -83,6 +83,10 @@ Penseu els seus atributs i operacions així com la visibilitat dels mateixos.
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
+# Resposta de classe:
+
+![image](https://user-images.githubusercontent.com/110727546/222085209-7007fd57-b632-40b2-8a98-6ff2682dc75a.png)
+
 ### Objectes
 
 Els objectes són personalitzacions concretes d'una classe, instàncies, espais de memòria amb valors.
