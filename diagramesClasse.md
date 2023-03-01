@@ -126,6 +126,11 @@ Utilitzarem [Lucid](https://lucid.app/) per crear 5 generalitzacións de classes
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
+Exemple:
+
+![image](https://user-images.githubusercontent.com/110727546/222091025-91c17b10-c1c9-4303-9194-50e89abd6c9a.png)
+
+
 ## Relació
 
 Hi ha vegades que dues classes estan relacionades sense ser parents, per exemple: una tortuga pot menjar-se un altre animal, com una medusa.
