@@ -87,7 +87,7 @@ Penseu els seus atributs i operacions així com la visibilitat dels mateixos.
 
 Els objectes són personalitzacions concretes d'una classe, instàncies, espais de memòria amb valors.
 
-Si tenim la classe animal, aquesta defineis a tots els animals possibles, però quan pensem en un animal concret ja és un objecte de la classe animal.
+Si tenim la classe animal, aquesta defineix a tots els animals possibles, però quan pensem en un animal concret ja és un objecte de la classe animal.
 
 Per exemple, si tenim un gos de 5 anys que es diu "Sultán" i pesa 41kg. Ja no parlem de classe, ara parlem d'un objecte d'una classe o d'una instància de la classe animal.
 
