@@ -130,6 +130,7 @@ Exemple:
 
 ![image](https://user-images.githubusercontent.com/110727546/222091025-91c17b10-c1c9-4303-9194-50e89abd6c9a.png)
 
+![image](https://user-images.githubusercontent.com/110727546/222092463-05000805-4bd0-4cb4-8fac-8451b3a13565.png)
 
 ## Relació
 
