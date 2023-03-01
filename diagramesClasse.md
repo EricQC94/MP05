@@ -72,7 +72,7 @@ La classe quedarà així:
 
 # Activitat
 
-Utilitzarem [Lucid](https://lucid.app/) per crear els següents objectes:
+Utilitzarem [Lucid](https://lucid.app/) per crear els diagrames de classes següents:
 
 1. persona.
 2. llibre.
