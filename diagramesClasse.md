@@ -227,8 +227,77 @@ Utilitzarem [Lucid](https://lucid.app/) per crear 5 relacions de composició:
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
+## Classe associativa
+
+Hi ha vegades que una associació entre classes té propietats o mètodes propis, llavors aquesta es representa amb una línia discontinua unida a la línia d'associació.
+
+La línia i la classe nova representen el mateix element conceptual de l'associació.
+
+A l'exemple següent tenim una associació entre la classe **estudiant** i la classe **assignatura**, l'associació es diu **està cursant** i té la propietat pròpia **nota**.
+
+![image](https://user-images.githubusercontent.com/110727546/224995926-e23c4041-ddb0-41b3-a489-3e5da197df73.png)
+
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+
+# Activitat
+
+Utilitzarem [Lucid](https://lucid.app/) crea 5 relacions d'associació amb operacions o atributs propis:
+
+1.
+2.
+3.
+4.
+5.
+
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
 
+## Interfície (interface)
 
+La interfície és una classe abstracta que conté la declaració (i només la declaració) de les propietats i operacions que s'hauran d'implementar per una classe.
 
+Per exemple aquí tenim la interfície ICalculadora:
 
+![image](https://user-images.githubusercontent.com/110727546/224996694-1cd775e9-c6d8-4ef1-b757-b092775155b7.png)
+
+Com veiem té la declaració dels mètodes, aquesta interfície es podria codificar així:
+
+```
+interface ICalculadora {
+    public abstract int suma (int x, int y);
+    public abstract int resta (int x, int y);
+    public abstract int multiplicacio (int x, int y);
+    public abstract int divisio (int x, int y);
+}
+```
+
+Si volem utilitzar ICalculadora haurem de crear una classe que la implementi, per exemple la classe laMevaCalculadora:
+
+```
+public class laMevaCalculadora implements ICalculadora {
+        public int suma (int x, int y){
+            return x + y;
+        }
+        public int resta (int x, int y){
+            return x - y;
+        }
+        public int multiplicacio (int x, int y){
+            return x * y;
+        }
+        public int divisio (int x, int y){
+            return x / y;
+        }
+}
+```
+
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+
+# Activitat
+
+Utilitzarem [Lucid](https://lucid.app/) i IntelliJ crea 3 interfícies, la seva codificació a Java i una classe que la implementi.
+
+1.
+2.
+3.
+
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
