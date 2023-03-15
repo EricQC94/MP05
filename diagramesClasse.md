@@ -263,6 +263,9 @@ Utilitzarem [Lucid](https://lucid.app/) crea 2 relacions d'associació amb opera
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
+### Resultat classe:
+
+![image](https://user-images.githubusercontent.com/110727546/225254264-1959e788-79e4-4492-a92f-4f88a1d38fe0.png)
 
 ## Interfície (interface)
 
