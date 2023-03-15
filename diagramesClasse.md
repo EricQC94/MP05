@@ -198,7 +198,7 @@ En aquest exemple si desapareix la fruiteria, les fruites seguiran existint.
 
 Utilitzarem [Lucid](https://lucid.app/) per crear una agregació entre:
 
-1. ovelles, ramat.
+1. ovelles, corral.
 2. animals, zoo.
 3. curs, estudiants.
 4. biblioteca, llibres.
