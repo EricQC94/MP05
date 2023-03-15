@@ -256,13 +256,10 @@ A l'exemple següent tenim una associació entre la classe **estudiant** i la cl
 
 # Activitat
 
-Utilitzarem [Lucid](https://lucid.app/) crea 5 relacions d'associació amb operacions o atributs propis:
+Utilitzarem [Lucid](https://lucid.app/) crea 2 relacions d'associació amb operacions o atributs propis:
 
 1.
 2.
-3.
-4.
-5.
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
