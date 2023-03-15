@@ -306,10 +306,9 @@ public class laMevaCalculadora implements ICalculadora {
 
 # Activitat
 
-Utilitzarem [Lucid](https://lucid.app/) i IntelliJ crea 3 interfícies, la seva codificació a Java i una classe que la implementi.
+Utilitzarem [Lucid](https://lucid.app/) i IntelliJ crea 2 interfícies, la seva codificació a Java i una classe que la implementi.
 
 1.
 2.
-3.
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
