@@ -169,6 +169,11 @@ Escrivim quines associacions poden tenir les següents classes, nom d'associaci�
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
+### Resposta de classe:
+
+![image](https://user-images.githubusercontent.com/110727546/225239025-46e1c84f-01e3-4615-846c-9a851fb8476b.png)
+
+
 ## Agregació
 
 Es tracta d'un cas especial d'associació entre dos o més objectes.
