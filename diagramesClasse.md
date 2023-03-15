@@ -206,6 +206,11 @@ Utilitzarem [Lucid](https://lucid.app/) per crear una agregació entre:
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
+### Resposta de classe:
+
+![image](https://user-images.githubusercontent.com/110727546/225244641-b530a6f5-9da4-4ea3-bf07-05b5c4fb1f77.png)
+
+
 ## Composició
 
 És molt similar a la relació d'agregació, en aquest cas hi ha un objecte base que necessita dels objectes inclosos per a existir, però si desapareix l'objecte base també desapareixen els objectes inclosos.
