@@ -237,6 +237,11 @@ Utilitzarem [Lucid](https://lucid.app/) per crear 5 relacions de composició:
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
+### Resposta de classe:
+
+![image](https://user-images.githubusercontent.com/110727546/225249525-09f63feb-463e-4260-a124-df9d771497f0.png)
+
+
 ## Classe associativa
 
 Hi ha vegades que una associació entre classes té propietats o mètodes propis, llavors aquesta es representa amb una línia discontinua unida a la línia d'associació.
