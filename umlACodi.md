@@ -172,6 +172,30 @@ Ara modifiquem el programa per a que es pugui afegir un contacte preguntant a us
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
+## Prèstec de còmics:
+
+Per aquesta activitat utilitzarem el programa [UMBRELLO](https://apps.kde.org/es/umbrello/).
+
+Seguint el següent enunciat crea el diagrama de classes necessari utilitzant Umbrello.
+
+### Enunciat:
+
+Sou aficionats a la cuina i voleu guardar un receptari amb totes les receptes que elaboreu.
+
+El receptari serà un conjunt de receptes.
+
+Cada recepta està identificada per un número de recepta, també té una llista d'ingredients on diu la quantitat necessaria de cada un d'ells i una explicació de com elaborar-la.
+
+El programa ens deixarà llistar les receptes del receptari, afegir una nova, modificar-la o eliminar-la.
+
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+
+8. Crea el diagrama de classes necessaria  Umbrello.
+9. Amb el propi Umbrello exporta el codi en Java del diagrama de classes.
+
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
+
+
 ## Biblioteca:
 
 Tenim el següent diagrama de classes que representa el sistema de prèstec d'una biblioteca:
@@ -180,8 +204,8 @@ Tenim el següent diagrama de classes que representa el sistema de prèstec d'un
 
 🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
 
-8. Com serà el codi en Java que l'implementi?
+10. Utilitza Umbrello per dibuixar el diagrama de classes.
+11. Com serà el codi en Java que l'implementi?
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
-
 
