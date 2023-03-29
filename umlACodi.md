@@ -172,7 +172,7 @@ Ara modifiquem el programa per a que es pugui afegir un contacte preguntant a us
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
-## Prèstec de còmics:
+## Receptari:
 
 Per aquesta activitat utilitzarem el programa [UMBRELLO](https://apps.kde.org/es/umbrello/).
 
