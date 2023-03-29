@@ -190,7 +190,7 @@ El programa ens deixarà llistar les receptes del receptari, afegir una nova, mo
 
 🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
 
-8. Crea el diagrama de classes necessaria  Umbrello.
+8. Crea el diagrama de classes necessari amb Umbrello.
 9. Amb el propi Umbrello exporta el codi en Java del diagrama de classes.
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
