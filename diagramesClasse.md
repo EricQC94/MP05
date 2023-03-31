@@ -81,11 +81,14 @@ Utilitzarem [Lucid](https://lucid.app/) per crear els diagrames de classes segü
 
 Penseu els seus atributs i operacions així com la visibilitat dels mateixos.
 
+https://lucid.app/lucidchart/b2c4cc06-1d6d-4edf-b732-482dd469376f/edit?invitationId=inv_aefa69ff-d1cd-4108-ae66-8fe1c03764da&page=0_0#
+
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
 # Resposta de classe:
 
 ![image](https://user-images.githubusercontent.com/110727546/222085209-7007fd57-b632-40b2-8a98-6ff2682dc75a.png)
+
 
 ### Objectes
 
@@ -118,11 +121,13 @@ L'herència es representa amb una fletxa que surt de la subclasse i va a la supe
 
 Utilitzarem [Lucid](https://lucid.app/) per crear 5 generalitzacións de classes (subclasse i superclasse):
 
-1.
-2.
-3.
-4.
-5.
+1. persona
+2. animal
+3. ordinador
+4. vehicle
+5. tel
+
+https://lucid.app/lucidchart/b2c4cc06-1d6d-4edf-b732-482dd469376f/edit?page=0_0&invitationId=inv_aefa69ff-d1cd-4108-ae66-8fe1c03764da#
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
@@ -204,6 +209,8 @@ Utilitzarem [Lucid](https://lucid.app/) per crear una agregació entre:
 4. biblioteca, llibres.
 5. atletes, equip.
 
+https://lucid.app/lucidchart/708b9101-d3dc-40da-b474-81d1619b524b/edit?page=0_0&invitationId=inv_bdafc847-9447-4653-85c3-93674e83ddb9#
+
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
 ### Resposta de classe:
@@ -229,11 +236,13 @@ Exemple:
 
 Utilitzarem [Lucid](https://lucid.app/) per crear 5 relacions de composició:
 
-1.
-2.
-3.
-4.
-5.
+1. ordinador
+2. pistola
+3. cotxe 
+4. paella
+5. mar
+
+https://lucid.app/lucidchart/b823b5c4-0bde-495e-87d3-a33509a635c2/edit?page=0_0&invitationId=inv_d3393fe5-86de-44b8-b351-e2fdb00ca2e4#
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
@@ -258,8 +267,10 @@ A l'exemple següent tenim una associació entre la classe **estudiant** i la cl
 
 Utilitzarem [Lucid](https://lucid.app/) crea 2 relacions d'associació amb operacions o atributs propis:
 
-1.
-2.
+1. restaurant, cambrer - esteTreballant
+2. local, visitant - partit
+
+https://lucid.app/lucidchart/a13fc867-5bc2-42f1-ade9-c67d4d676c8c/edit?page=0_0&invitationId=inv_8523bfba-df84-4d52-9059-418a31af9acf#
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
